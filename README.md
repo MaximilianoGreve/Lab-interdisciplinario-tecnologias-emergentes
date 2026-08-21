@@ -7,7 +7,7 @@ Proyecto de investigación aplicada que busca abordar la falta de trazabilidad e
 
 * Victoria Atala
 * Valeria Cheetham
-* Maximiliano
+* Maximiliano Greve
 * Laura Hoppe
 
 ## Avance 20-08-2026
